@@ -22,7 +22,7 @@ A Docker-based local development environment for PHP/Laravel projects with multi
 
 1. Clone this repo
 ```bash
-git clone [<repository-url>](https://github.com/aldesrahim/localdev)
+git clone https://github.com/aldesrahim/localdev
 cd localdev
 ```
 
