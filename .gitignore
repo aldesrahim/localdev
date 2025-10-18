@@ -1,0 +1,13 @@
+.env
+
+logs/nginx/*
+!logs/nginx/.gitignore
+
+nginx/ssl/*
+!nginx/ssl/.gitignore
+
+!nginx/sites/.gitignore
+!nginx/sites/app.conf.example
+!nginx/sites/laravel.conf.example
+!nginx/sites/octane.conf.example
+!nginx/sites/default.conf
