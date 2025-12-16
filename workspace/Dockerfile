@@ -33,6 +33,7 @@ RUN apt-get update && apt-get install -y \
     ca-certificates \
     apt-transport-https \
     software-properties-common \
+    zip \
     && rm -rf /var/lib/apt/lists/*
 
 # Add PHP repository and install PHP
